@@ -1,0 +1,295 @@
+header{
+    background-color:#293f50;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -20px;
+    padding: 20px;
+}
+h1{
+    display: inline-block;
+    margin-left: 50px; 
+    color: white;
+    margin-top: 50px;
+}
+nav{
+    display: inline-block;
+    margin-left: 550px;
+}
+.a{
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+}
+.h3{
+    color:burlywood;
+    margin-left: 205px;
+}
+#div1{
+    background-color: #293F50;
+    text-align: center;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+
+
+#a{
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-top: 20px; 
+    display:inline-block; 
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    margin-bottom:50px ;
+}
+.para{
+    color: white;
+    line-height: 25px;
+}
+#h2{
+    color: burlywood;
+}
+.two{
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+.class{
+    display: inline-block ;
+}
+#white{
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+b{
+    color:grey;
+}
+.para2{
+    color:grey;
+}
+.h4{
+    color:burlywood;
+}
+.b{
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+}
+#green{
+    background-color: #293F50;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 50px;
+    clear: both;
+}
+#bo{
+    margin-left: 50px;
+}   
+#yemi{
+    text-align: center;
+    background-image: linear-gradient(75deg,#A1D3AF 40%, #F2F0D0 70%);
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 40px;
+    
+}
+#ola{
+    float: right;
+    margin-right:100px ;
+    margin-top: 50px;
+    border: 1px solid grey;
+    width: 25%;
+    text-align: center;
+}
+#dunni{
+    display: inline-block;
+}
+#image{
+    border-radius: 200px;
+    height: 150px;
+    width: 150px;
+    margin-top: -25%;
+
+}
+#add{
+    padding: 20px;
+    line-height: 30px;
+}
+#oyo{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.h7{
+    color: grey;
+}
+.h8{
+    color: green;
+}
+.h9{
+    color:greenyellow
+}
+address{
+    color: green;
+}
+#floatt{
+    display: inline-block;
+}
+#float{
+    float: right;
+    margin-right: 100px;
+    margin-top:50px;
+    border: 1px solid grey;
+    width: 25%;
+    text-align: center;
+}
+#pay{
+    background-image: linear-gradient(75deg,#A1D3AF 40%, #F2F0D0 70%);
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 30px;
+    text-align: center;
+}
+#sharp{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.top{
+    margin-top: 33px;
+    color: grey;
+}
+.topp{
+    margin-top: 46px;
+    color: grey;
+}
+.toppp{
+    margin-top: 90px;
+    color: grey;
+}
+.toppi{
+    margin-top: 50px;
+    color: grey;
+}
+.oladunni{
+    float: left;
+    margin-left: 100px;
+}
+.oladunnii{
+    float: right;
+    width: 80%;
+    margin-right:50px ;
+    margin-top: 5px;
+}.esther{
+    float: left;
+
+}
+.estherr{
+    float: right;
+    margin-right: 200px;
+
+}
+#estherr{
+    margin-right: 232px;
+}
+#hr{
+    clear: both;
+}
+#hh3{
+    margin-left:-40px ;
+    color: green;
+}
+
+#oladunii{
+    margin-top: 500px;
+    clear: both;
+
+}
+.tryme{
+    float:left;
+    margin-left: 100px;
+}
+.tryus{
+    float: right;
+    width: 80%;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+#hh6{
+    margin-top: 30px;
+}
+.adam{
+    color: green;
+}
+.yode{
+    color: grey;
+}
+.form{
+    margin-top: 50px;
+    margin-bottom: 550px;
+}
+#formm{
+    float: left;
+    margin-left: 50px;
+}
+.badguy{
+    background-color: green;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color:white;
+    border-radius: 5px;
+    border:none;
+}
+#form{
+    float:right;
+    margin-right: 50px;
+}
+#hmm{
+    background-image: linear-gradient(75deg,#A1D3AF 40%, #F2F0D0 70%);;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+    padding: 50px;
+}
+.bor{
+    border-bottom-style:solid;
+    border-bottom-width:1px ;
+    border-bottom-color:grey ;
+    color:green; 
+}
+.iframee{
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.iframe{
+    float:right;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+.iframeee{
+    clear: both;
+    float: left;
+    margin-left: 50px;
+    
+}
+.iframi{
+    float:right;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+    
+#iframe{
+    height: 120vh;
+    margin-top: 50px;
+}
+
